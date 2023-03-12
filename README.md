@@ -1,3 +1,3 @@
 # hello-world
 
-Hi, I'm editing this document! :) :) :)
+Hello! I'm taking a Gr10 Computer Science course this semester.
